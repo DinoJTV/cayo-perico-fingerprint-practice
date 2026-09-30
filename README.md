@@ -17,7 +17,7 @@ A playable, offline fingerprint-cloner practice game inspired by GTA Online's Ca
 ## Play in seconds
 
 1. **Download [index.html](https://github.com/DinoJTV/cayo-perico-fingerprint-practice/raw/refs/heads/main/index.html?download=1)** and save it to your computer.
-2. Open the saved file in **Chrome or Edge**.
+2. Open the saved file in **Chrome or Edge**. If the link displays source code, use **Ctrl+S** (or **Cmd+S**) to save it as `index.html`, or right-click the link and choose **Save link as**.
 3. Choose **Connect · timed** or **Practice · no timer**.
 
 Everything needed to play is inside `index.html`, including the graphics, pixel font, and synthesized audio. No server, account, internet connection, or build step is required. The images in this repository are just for the README.
